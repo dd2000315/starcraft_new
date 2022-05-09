@@ -128,6 +128,7 @@
     <ClCompile Include="..\Source\CombatSimulation.cpp" />
     <ClCompile Include="..\Source\CombatCommander.cpp" />
     <ClCompile Include="..\Source\Common.cpp" />
+    <ClCompile Include="..\Source\ComsatStationManager.cpp" />
     <ClCompile Include="..\source\DetectorManager.cpp" />
     <ClCompile Include="..\Source\DistanceMap.cpp" />
     <ClCompile Include="..\Source\Global.cpp" />
@@ -162,6 +163,7 @@
     <ClCompile Include="..\Source\UnitUtil.cpp" />
     <ClCompile Include="..\source\WorkerData.cpp" />
     <ClCompile Include="..\source\WorkerManager.cpp" />
+    <ClCompile Include="..\Source\Wraith.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Source\AutoObserver.h" />
@@ -176,6 +178,7 @@
     <ClInclude Include="..\Source\CombatSimulation.h" />
     <ClInclude Include="..\Source\CombatCommander.h" />
     <ClInclude Include="..\Source\Common.h" />
+    <ClInclude Include="..\Source\ComsatStationManager.h" />
     <ClInclude Include="..\source\DetectorManager.h" />
     <ClInclude Include="..\Source\DistanceMap.h" />
     <ClInclude Include="..\Source\GameCommander.h" />
@@ -212,6 +215,7 @@
     <ClInclude Include="..\Source\UnitUtil.h" />
     <ClInclude Include="..\source\WorkerData.h" />
     <ClInclude Include="..\source\WorkerManager.h" />
+    <ClInclude Include="..\Source\WraithManager.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

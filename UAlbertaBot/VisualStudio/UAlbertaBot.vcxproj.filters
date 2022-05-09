@@ -145,6 +145,12 @@
     <ClCompile Include="..\Source\TerranDropManager.cpp">
       <Filter>micro</Filter>
     </ClCompile>
+    <ClCompile Include="..\Source\Wraith.cpp">
+      <Filter>micro</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Source\ComsatStationManager.cpp">
+      <Filter>micro</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Source\CombatCommander.h">
@@ -283,6 +289,12 @@
       <Filter>micro</Filter>
     </ClInclude>
     <ClInclude Include="..\Source\TerranDropManager.h">
+      <Filter>micro</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\WraithManager.h">
+      <Filter>micro</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Source\ComsatStationManager.h">
       <Filter>micro</Filter>
     </ClInclude>
   </ItemGroup>
